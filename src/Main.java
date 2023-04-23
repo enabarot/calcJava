@@ -72,7 +72,6 @@ class Calculate {
                 }
             }
             z = o + p;
-            System.out.println(o + p);
         } else {
             z = String.valueOf(sum);
         }
